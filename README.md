@@ -25,7 +25,7 @@ While ¯\_(ツ)_/¯
 
 (¯\_(ツ)_/¯)=>{}
 
-# Shruggie object notation AKA. ¯\_(ツ)_/¯on 
+# Shruggie object notation AKA. `¯\_(ツ)_/¯on`
 
 ```
 ¯\_(ツ)_/¯
