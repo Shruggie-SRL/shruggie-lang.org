@@ -7,7 +7,8 @@ Every line ends with `¯\_(ツ)_/¯`
 
 ## Control flow:
 IF: `¯\_(ツ)_/¯?`
-SWITCH, DEFAULT tag: `¯\_(ツ)_/¯:`
+
+SWITCHs, DEFAULT tag: `¯\_(ツ)_/¯:`
 
 ## Loops:
 
@@ -18,14 +19,16 @@ Do {
 
 ```
 While ¯\_(ツ)_/¯
- {}
+{
+ //Do...what you have to do or ¯\_(ツ)_/¯
+}
 ```
 
 ## Lambdas: 
 
 (¯\_(ツ)_/¯)=>{}
 
-# Shruggie object notation AKA. `¯\_(ツ)_/¯on`
+# Shruggie object notation AKA. Shrugon or `¯\_(ツ)_/¯on`
 
 ```
 ¯\_(ツ)_/¯
@@ -33,25 +36,32 @@ While ¯\_(ツ)_/¯
 ¯\_(ツ)_/¯
 ```
 
-## Soporta punteros?
+## Pointers
 
 `*¯\_(ツ)_/¯`
 
-Claro! y obviamente: `**¯\_(ツ)_/¯`
+Of course! and obviously: `**¯\_(ツ)_/¯`
 
-Como indicas que es un array?
+## Multidimentional Arrays
+
 `[ ¯\_(ツ)_/¯, ¯\_(ツ)_/¯ ]`
 
 ``¯\_(ツ)_/¯ myArray = [¯\_(ツ)_/¯,¯\_(ツ)_/¯] ¯\_(ツ)_/¯``
 
-y obviamente `¯\_(ツ)_/¯` es inmutable
+and by the way `¯\_(ツ)_/¯` is immutable
 
-¯\_(ツ)_/¯ Es un lenguaje de tipado ¯\_(ツ)_/¯
+## Is ¯\_(ツ)_/¯ a strongly typed language?
+ 
+¯\_(ツ)_/¯
 
-sobrecargable `¯\_(ツ)_/¯.¯\_(ツ)_/¯ = ¯\_(ツ)_/¯() => {}`
+## Overloading
 
-Un subgenero del lazy evaluation...
+`¯\_(ツ)_/¯.¯\_(ツ)_/¯ = ¯\_(ツ)_/¯() => {}`
+
+## Lazy Evalutions
 
 `(¯\_(ツ)_/¯).¯\_(ツ)_/¯(¯\_(ツ)_/¯)¯\_(ツ)_/¯`
 
-Es Turing complete?: *¯\_(ツ)_/¯*
+## Is Turing complete?: 
+
+*¯\_(ツ)_/¯*
