@@ -1,14 +1,17 @@
 # shruggie-lang.org
 
-*¯\_(ツ)_/¯-lang*
+` ¯\_(ツ)_/¯-lang `
 
 Every function begins and ends with `¯\_(ツ)_/¯`
 Every line ends with `¯\_(ツ)_/¯`
 
 ## Control flow:
-IF: `¯\_(ツ)_/¯?`
 
-SWITCHs, DEFAULT tag: `¯\_(ツ)_/¯:`
+If' s: `if ¯\_(ツ)_/¯ {}`
+
+Ternaries: `¯\_(ツ)_/¯ ? ¯\_(ツ)_/¯: ¯\_(ツ)_/¯`
+
+Switch's, DEFAULT tag: `¯\_(ツ)_/¯:`
 
 ## Loops:
 
@@ -54,7 +57,7 @@ and by the way `¯\_(ツ)_/¯` is immutable
 
 ## Is ¯\_(ツ)_/¯ a strongly typed language?
  
-¯\_(ツ)_/¯
+`¯\_(ツ)_/¯`
 
 ## Overloading
 
@@ -66,4 +69,4 @@ and by the way `¯\_(ツ)_/¯` is immutable
 
 ## Is Turing complete?: 
 
-*¯\_(ツ)_/¯*
+`¯\_(ツ)_/¯`
