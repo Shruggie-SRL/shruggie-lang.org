@@ -26,9 +26,11 @@ While ¯\_(ツ)_/¯
 
 ## Lambdas: 
 
-(¯\_(ツ)_/¯)=>{}
+```
+(¯\_(ツ)_/¯)=>{}()
+```
 
-# Shruggie object notation AKA. Shrugon or `¯\_(ツ)_/¯on`
+## Shruggie object notation AKA. Shrugon or `¯\_(ツ)_/¯on`
 
 ```
 ¯\_(ツ)_/¯
